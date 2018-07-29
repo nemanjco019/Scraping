@@ -24,10 +24,7 @@ public class Scrap {
         
         
         
-        } 
-        
-        
-        
+        }
         catch (IOException ex) {
             Logger.getLogger(Scrap.class.getName()).log(Level.SEVERE, null, ex);
         }
